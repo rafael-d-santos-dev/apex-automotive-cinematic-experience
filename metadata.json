@@ -1,0 +1,6 @@
+{
+  "name": "APEX R-01 — Cinematic Automotive Experience",
+  "description": "Continuous scroll-driven studio camera sequence exploring the APEX R-01 metallic graphite sports coupe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
